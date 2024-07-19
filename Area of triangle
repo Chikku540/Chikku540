@@ -1,0 +1,12 @@
+import java.lang.*;
+class Areaoftriangle
+{
+public static void main(String[] args)
+{
+int b=12;
+int h=13;
+int area_triangle=1/2*b*h;
+System.out.println("Area of the triangle="+area_triangle);
+}
+}
+
