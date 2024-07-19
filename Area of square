@@ -1,0 +1,11 @@
+import java.lang.*;
+class Areaofsquare
+{
+public static void main(String[] args)
+{
+int s=12;
+int area_square=s*s;
+System.out.println("Area os the square="+area_square);
+}
+}
+
