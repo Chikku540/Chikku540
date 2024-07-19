@@ -1,0 +1,12 @@
+
+import java.lang.*;
+class Areaofrectangle
+{
+public static void main(String[] args)
+{
+int h=12;
+int b=13;
+int area_rectangle=h*b;
+System.out.println("Area os the rectangle="+area_rectangle);
+}
+}
