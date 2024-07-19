@@ -1,0 +1,8 @@
+import java.lang.*;
+class Multiplelines
+{
+public static void main(String[] args)
+{
+System.out.println("haripriya \n B-tech \n 3rd year"); 
+    } 
+} 
