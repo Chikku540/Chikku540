@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class Divisiontwonumbers
+{
+public static void main(String[] args)
+{
+int n1,n2,divi;
+Scanner sc = new Scanner(System.in);
+System.out.println("Enter the two numbers");
+n1=sc.nextInt();
+n2=sc.nextInt();
+divi=n1/n2;
+System.out.println("the division of"+n1+"and"+n2+"is"+divi);
+}
+}
