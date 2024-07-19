@@ -1,0 +1,15 @@
+
+import java.util.Scanner;
+public class Subtractiontwonumbers
+{
+public static void main(String[] args)
+{
+int n1,n2,sub;
+Scanner sc = new Scanner(System.in);
+System.out.println("Enter the two numbers");
+n1=sc.nextInt();
+n2=sc.nextInt();
+sub=n1-n2;
+System.out.println("the addition of"+n1+"and"+n2+"is"+sub);
+}
+}
