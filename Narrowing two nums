@@ -1,0 +1,14 @@
+import java.lang.*;
+public class Narrowingtypecasting
+{
+public static void main(String[] args)
+{
+double d=1333.3;
+long l=(long)d;
+int i=(int)l;
+System.out.println("Before conversion:"+d);
+System.out.println("After conversion into long type:" +l);
+System.out.println("After conversion into int type:" +i);
+}
+}
+
