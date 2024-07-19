@@ -1,0 +1,12 @@
+
+import java.lang.*;
+class Areaofcircle
+{
+public static void main(String[] args)
+{
+double r=12;
+double area_circle=3.14*r*r;
+System.out.println("Area of the circle="+area_circle);
+}
+}
+
